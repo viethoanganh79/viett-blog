@@ -1,7 +1,7 @@
 ---
-title: Hành trình bắt đầu luyện gõ 10 ngón
-slug: hanh-trinh-luyen-phim-10-ngon
-date: '2025-04-24'
+title: Tuần đầu tiên - Hành trình bắt đầu luyện gõ 10 ngón
+slug: hanh-trinh-luyen-phim-10-ngon-tuan-dau-tien
+date: '2025-05-02'
 excerpt: "Nghe thì hơi buồn cười vì là Developer thì chắc chắn phải gõ được 10 ngón chứ! Nhưng không!? Tôi vẫn còn gõ phím bằng 6 ngón tay cho tới 1 năm trước."
 tags: [ 'tập viết', 'nỗi sợ', 'bắt đầu' ]
 author: Viett
