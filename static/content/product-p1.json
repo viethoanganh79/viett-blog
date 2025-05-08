@@ -1,0 +1,20 @@
+{
+  "id": "p1",
+  "slug": "mechanical-keyboard",
+  "name": "Mechanical Keyboard",
+  "description": "A high-quality mechanical keyboard with RGB lighting and Cherry MX switches.",
+  "price": 129.99,
+  "image": "/images/posts/hello-world.png",
+  "images": [
+    "/images/posts/hello-world.png",
+    "/images/posts/sveltekit-learn.png",
+    "/images/posts/seo.jpg",
+    "/images/posts/dad-how-do-i.jpeg"
+  ],
+  "category": "electronics",
+  "featured": true,
+  "inStock": true,
+  "visible": false,
+  "content": "\n## Mechanical Keyboard\n\nThis premium mechanical keyboard features:\n\n- Cherry MX Blue switches for tactile feedback\n- Full RGB backlighting with 16.8 million colors\n- Durable aluminum frame\n- Programmable macros\n- N-key rollover for gaming\n- Detachable USB-C cable\n\n### Technical Specifications\n\n- Switch Type: Cherry MX Blue\n- Keycaps: Double-shot PBT\n- Backlighting: RGB (16.8 million colors)\n- Frame: Aluminum\n- Cable: Detachable USB-C\n- Dimensions: 14.2\" x 5.3\" x 1.4\"\n- Weight: 2.2 lbs\n\n### Care Instructions\n\nClean with compressed air and a microfiber cloth. Avoid liquid cleaners on the switches.\n",
+  "html": "<h2>Mechanical Keyboard</h2>\n<p>This premium mechanical keyboard features:</p>\n<ul>\n<li>Cherry MX Blue switches for tactile feedback</li>\n<li>Full RGB backlighting with 16.8 million colors</li>\n<li>Durable aluminum frame</li>\n<li>Programmable macros</li>\n<li>N-key rollover for gaming</li>\n<li>Detachable USB-C cable</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Switch Type: Cherry MX Blue</li>\n<li>Keycaps: Double-shot PBT</li>\n<li>Backlighting: RGB (16.8 million colors)</li>\n<li>Frame: Aluminum</li>\n<li>Cable: Detachable USB-C</li>\n<li>Dimensions: 14.2&quot; x 5.3&quot; x 1.4&quot;</li>\n<li>Weight: 2.2 lbs</li>\n</ul>\n<h3>Care Instructions</h3>\n<p>Clean with compressed air and a microfiber cloth. Avoid liquid cleaners on the switches.</p>\n"
+}

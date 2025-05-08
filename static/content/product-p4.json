@@ -1,0 +1,17 @@
+{
+  "id": "p4",
+  "slug": "desk-mat",
+  "name": "Desk Mat",
+  "description": "Large desk mat for your keyboard and mouse, with a smooth surface for precise movements.",
+  "price": 24.99,
+  "image": "/images/posts/dad-how-do-i.jpeg",
+  "images": [
+    "/images/posts/dad-how-do-i.jpeg"
+  ],
+  "category": "accessories",
+  "featured": false,
+  "inStock": true,
+  "visible": false,
+  "content": "\n## Desk Mat\n\nThis premium desk mat provides the perfect surface for your workspace:\n\n- Large 36\" x 16\" size accommodates keyboard, mouse, and more\n- 4mm thick for comfort and noise reduction\n- Smooth microfiber surface for precise mouse tracking\n- Non-slip rubber base keeps mat in place\n- Water-resistant and easy to clean\n- Stitched edges prevent fraying\n\n### Technical Specifications\n\n- Dimensions: 36\" x 16\" x 4mm\n- Material: Microfiber surface with rubber base\n- Edge: Stitched\n- Water Resistant: Yes\n- Colors Available: Black, Gray, Blue\n\n### Care Instructions\n\nSpot clean with mild soap and water. Air dry completely before use. Do not machine wash or dry.\n",
+  "html": "<h2>Desk Mat</h2>\n<p>This premium desk mat provides the perfect surface for your workspace:</p>\n<ul>\n<li>Large 36&quot; x 16&quot; size accommodates keyboard, mouse, and more</li>\n<li>4mm thick for comfort and noise reduction</li>\n<li>Smooth microfiber surface for precise mouse tracking</li>\n<li>Non-slip rubber base keeps mat in place</li>\n<li>Water-resistant and easy to clean</li>\n<li>Stitched edges prevent fraying</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Dimensions: 36&quot; x 16&quot; x 4mm</li>\n<li>Material: Microfiber surface with rubber base</li>\n<li>Edge: Stitched</li>\n<li>Water Resistant: Yes</li>\n<li>Colors Available: Black, Gray, Blue</li>\n</ul>\n<h3>Care Instructions</h3>\n<p>Spot clean with mild soap and water. Air dry completely before use. Do not machine wash or dry.</p>\n"
+}

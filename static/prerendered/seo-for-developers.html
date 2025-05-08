@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SEO for Developers | Viett Blog</title>
+  <meta name="description" content="Learn essential SEO techniques that every developer should know.">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://viett-blog.web.app/blog/seo-for-developers">
+  <meta property="og:title" content="SEO for Developers">
+  <meta property="og:description" content="Learn essential SEO techniques that every developer should know.">
+  <meta property="og:image" content="https://viett-blog.web.app/images/posts/seo.jpg">
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@viett">
+  <meta name="twitter:title" content="SEO for Developers">
+  <meta name="twitter:description" content="Learn essential SEO techniques that every developer should know.">
+  <meta name="twitter:image" content="https://viett-blog.web.app/images/posts/seo.jpg">
+  
+  <!-- JSON-LD structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "SEO for Developers",
+    "description": "Learn essential SEO techniques that every developer should know.",
+    "image": "https://viett-blog.web.app/images/posts/seo.jpg",
+    "datePublished": "2025-04-15",
+    "author": {
+      "@type": "Person",
+      "name": "Your Name"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Viett Blog",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://viett-blog.web.app/images/logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://viett-blog.web.app/blog/seo-for-developers"
+    }
+  }
+  </script>
+  
+  <!-- Inline CSS -->
+  <style>
+    
+/* Basic styling for the static content */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  line-height: 1.6;
+  color: #1e293b;
+  background-color: #f8fafc;
+  margin: 0;
+  padding: 0;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0 solid;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+ul {
+  list-style: none;
+}
+.min-h-screen {
+  min-height: 100vh;
+}
+.flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-grow {
+  flex-grow: 1;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.items-center {
+  align-items: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+.grid {
+  display: grid;
+}
+.gap-2 {
+  gap: 0.5rem;
+}
+.gap-8 {
+  gap: 2rem;
+}
+.space-x-4 > * + * {
+  margin-left: 1rem;
+}
+.p-4 {
+  padding: 1rem;
+}
+.p-6 {
+  padding: 1.5rem;
+}
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.px-3 {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.py-0\.5 {
+  padding-top: 0.125rem;
+  padding-bottom: 0.125rem;
+}
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.mt-8 {
+  margin-top: 2rem;
+}
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+.mb-4 {
+  margin-bottom: 1rem;
+}
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
+.mb-8 {
+  margin-bottom: 2rem;
+}
+.mr-4 {
+  margin-right: 1rem;
+}
+.text-center {
+  text-align: center;
+}
+.text-xs {
+  font-size: 0.75rem;
+}
+.text-sm {
+  font-size: 0.875rem;
+}
+.text-xl {
+  font-size: 1.25rem;
+}
+.text-2xl {
+  font-size: 1.5rem;
+}
+.text-4xl {
+  font-size: 2.25rem;
+}
+.font-bold {
+  font-weight: 700;
+}
+.font-semibold {
+  font-weight: 600;
+}
+.bg-white {
+  background-color: #ffffff;
+}
+.bg-slate-200 {
+  background-color: #e2e8f0;
+}
+.bg-slate-800 {
+  background-color: #1e293b;
+}
+.text-white {
+  color: #ffffff;
+}
+.text-slate-800 {
+  color: #1e293b;
+}
+.text-gray-500 {
+  color: #6b7280;
+}
+.text-gray-600 {
+  color: #4b5563;
+}
+.rounded {
+  border-radius: 0.25rem;
+}
+.rounded-full {
+  border-radius: 9999px;
+}
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+.shadow-md {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+.overflow-hidden {
+  overflow: hidden;
+}
+.transition-colors {
+  transition-property: color, background-color, border-color;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+.transition-shadow {
+  transition-property: box-shadow;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+.hover\:bg-slate-300:hover {
+  background-color: #cbd5e1;
+}
+.hover\:bg-slate-700:hover {
+  background-color: #334155;
+}
+.hover\:text-slate-300:hover {
+  color: #cbd5e1;
+}
+.hover\:text-slate-600:hover {
+  color: #475569;
+}
+.hover\:shadow-lg:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+.w-full {
+  width: 100%;
+}
+.h-48 {
+  height: 12rem;
+}
+.h-auto {
+  height: auto;
+}
+.object-cover {
+  object-fit: cover;
+}
+.prose {
+  max-width: 65ch;
+  margin-left: auto;
+  margin-right: auto;
+}
+.prose h1 {
+  font-size: 2.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}
+.prose h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+.prose p {
+  margin-bottom: 1.5rem;
+}
+.prose img {
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  margin-bottom: 1.5rem;
+}
+.blog-content {
+  font-size: 1.125rem;
+}
+.blog-content pre {
+  background-color: #1e293b;
+  color: white;
+  padding: 1rem;
+  border-radius: 0.375rem;
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+@media (min-width: 768px) {
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (min-width: 1024px) {
+  .lg\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .lg\:prose-xl {
+    font-size: 1.25rem;
+    line-height: 1.8;
+  }
+  .lg\:prose-xl h1 {
+    font-size: 2.8125rem;
+    margin-bottom: 2rem;
+  }
+  .lg\:prose-xl h2 {
+    font-size: 1.875rem;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+  </style>
+</head>
+<body>
+  <div class="min-h-screen flex flex-col">
+    
+<header class="bg-slate-800 text-white p-4"><div class="container mx-auto flex justify-between items-center"><a href="/" class="text-2xl font-bold">Viett Blog</a> <nav><ul class="flex space-x-4"><li><a href="/" class="hover:text-slate-300">Home</a></li> <li><a href="/blog" class="hover:text-slate-300">Blog</a></li> <li><a href="/about" class="hover:text-slate-300">About</a></li></ul></nav></div></header>
+
+    
+    <main class="container mx-auto flex-grow p-4">
+      <article class="prose prose-slate lg:prose-xl mx-auto">
+        <header class="mb-8">
+          <h1 class="text-4xl font-bold mb-2">SEO for Developers</h1>
+          <div class="flex flex-wrap items-center text-gray-500 text-sm mb-4">
+            <time datetime="2025-04-15" class="mr-4">April 15, 2025</time>
+            <span class="mr-4">By Your Name</span>
+          </div>
+          <div class="flex flex-wrap gap-2 mb-6">
+            
+              <a href="/blog/tag/seo" class="bg-slate-200 hover:bg-slate-300 text-slate-800 px-3 py-1 rounded-full text-sm">
+                #seo
+              </a>
+            
+              <a href="/blog/tag/web development" class="bg-slate-200 hover:bg-slate-300 text-slate-800 px-3 py-1 rounded-full text-sm">
+                #web development
+              </a>
+            
+              <a href="/blog/tag/tutorial" class="bg-slate-200 hover:bg-slate-300 text-slate-800 px-3 py-1 rounded-full text-sm">
+                #tutorial
+              </a>
+            
+          </div>
+          <img src="/images/posts/seo.jpg" alt="SEO for Developers" class="w-full h-auto rounded-lg shadow-md mb-6" />
+        </header>
+        
+        <div class="blog-content">
+          <h2>SEO for Developers</h2>
+<p>Search Engine Optimization (SEO) is a crucial aspect of web development that can significantly impact the visibility and success of your website. As a developer, understanding SEO principles can help you build websites that rank well in search engines.</p>
+<h3>Why SEO Matters for Developers</h3>
+<p>While many consider SEO to be primarily a marketing concern, developers play a vital role in implementing technical SEO best practices. Here&#39;s why SEO should matter to you as a developer:</p>
+<ol>
+<li><strong>Better User Experience</strong>: Many SEO best practices align with providing a better user experience</li>
+<li><strong>Improved Performance</strong>: SEO often requires optimizing site speed and performance</li>
+<li><strong>Increased Visibility</strong>: Well-implemented SEO helps your site get discovered</li>
+<li><strong>Career Advancement</strong>: SEO knowledge makes you more valuable as a developer</li>
+</ol>
+<h3>Technical SEO Basics</h3>
+<p>Here are some essential technical SEO practices every developer should implement:</p>
+<h4>1. Semantic HTML</h4>
+<p>Using proper HTML semantics helps search engines understand your content better:</p>
+<pre><code class="language-html">&lt;!-- Bad --&gt;
+&lt;div class=&quot;header&quot;&gt;
+  &lt;div class=&quot;title&quot;&gt;My Page Title&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Good --&gt;
+&lt;header&gt;
+  &lt;h1&gt;My Page Title&lt;/h1&gt;
+&lt;/header&gt;
+</code></pre>
+<h4>2. Metadata</h4>
+<p>Implement proper metadata in your HTML:</p>
+<pre><code class="language-html">&lt;head&gt;
+  &lt;title&gt;Page Title | Site Name&lt;/title&gt;
+  &lt;meta name=&quot;description&quot; content=&quot;A concise description of the page content&quot;&gt;
+  &lt;meta name=&quot;robots&quot; content=&quot;index, follow&quot;&gt;
+&lt;/head&gt;
+</code></pre>
+<h4>3. Structured Data</h4>
+<p>Add structured data (JSON-LD) to help search engines understand your content:</p>
+<pre><code class="language-html">&lt;script type=&quot;application/ld+json&quot;&gt;
+{
+  &quot;@context&quot;: &quot;https://schema.org&quot;,
+  &quot;@type&quot;: &quot;BlogPosting&quot;,
+  &quot;headline&quot;: &quot;Article Title&quot;,
+  &quot;datePublished&quot;: &quot;2025-04-15&quot;,
+  &quot;author&quot;: {
+    &quot;@type&quot;: &quot;Person&quot;,
+    &quot;name&quot;: &quot;Author Name&quot;
+  }
+}
+&lt;/script&gt;
+</code></pre>
+<h3>Performance Optimization</h3>
+<p>Site speed is a critical ranking factor. Here are some performance optimizations:</p>
+<ol>
+<li><strong>Minimize HTTP Requests</strong>: Combine CSS and JavaScript files</li>
+<li><strong>Optimize Images</strong>: Use modern formats like WebP and proper sizing</li>
+<li><strong>Implement Lazy Loading</strong>: Load images and content as needed</li>
+<li><strong>Use Browser Caching</strong>: Set appropriate cache headers</li>
+</ol>
+<h3>Conclusion</h3>
+<p>As a developer, incorporating SEO best practices into your workflow will result in better-performing, more discoverable websites. Start with the basics outlined in this post, and continue learning as search engine algorithms evolve.</p>
+<p>Remember that good SEO is ultimately about creating a better experience for users, which aligns perfectly with our goals as developers.</p>
+
+        </div>
+      </article>
+    </main>
+    
+    
+<footer class="bg-slate-800 text-white p-4 mt-8">
+  <div class="container mx-auto text-center">
+    <p>&copy; 2025 Viett. All rights reserved.</p>
+  </div>
+</footer>
+
+  </div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "id": "p2",
+  "slug": "wireless-mouse",
+  "name": "Wireless Mouse",
+  "description": "Ergonomic wireless mouse with long battery life and precision tracking.",
+  "price": 49.99,
+  "image": "/images/posts/sveltekit-learn.png",
+  "images": [
+    "/images/posts/sveltekit-learn.png",
+    "/images/posts/hello-world.png",
+    "/images/posts/dad-how-do-i.jpeg",
+    "/images/posts/seo.jpg"
+  ],
+  "category": "electronics",
+  "featured": true,
+  "inStock": true,
+  "visible": false,
+  "content": "\n## Wireless Mouse\n\nThis ergonomic wireless mouse is designed for comfort and precision:\n\n- Ergonomic design reduces wrist strain\n- 16,000 DPI optical sensor for precise tracking\n- 7 programmable buttons\n- Up to 70 hours of battery life\n- Fast charging via USB-C\n- Compatible with Windows, macOS, and Linux\n\n### Technical Specifications\n\n- Sensor: 16,000 DPI optical\n- Buttons: 7 programmable\n- Battery Life: Up to 70 hours\n- Charging: USB-C\n- Connectivity: 2.4GHz wireless with USB receiver\n- Dimensions: 5.0\" x 2.8\" x 1.7\"\n- Weight: 4.2 oz\n\n### What's Included\n\n- Wireless Mouse\n- USB-C Charging Cable\n- USB Receiver\n- User Manual\n",
+  "html": "<h2>Wireless Mouse</h2>\n<p>This ergonomic wireless mouse is designed for comfort and precision:</p>\n<ul>\n<li>Ergonomic design reduces wrist strain</li>\n<li>16,000 DPI optical sensor for precise tracking</li>\n<li>7 programmable buttons</li>\n<li>Up to 70 hours of battery life</li>\n<li>Fast charging via USB-C</li>\n<li>Compatible with Windows, macOS, and Linux</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Sensor: 16,000 DPI optical</li>\n<li>Buttons: 7 programmable</li>\n<li>Battery Life: Up to 70 hours</li>\n<li>Charging: USB-C</li>\n<li>Connectivity: 2.4GHz wireless with USB receiver</li>\n<li>Dimensions: 5.0&quot; x 2.8&quot; x 1.7&quot;</li>\n<li>Weight: 4.2 oz</li>\n</ul>\n<h3>What&#39;s Included</h3>\n<ul>\n<li>Wireless Mouse</li>\n<li>USB-C Charging Cable</li>\n<li>USB Receiver</li>\n<li>User Manual</li>\n</ul>\n"
+}

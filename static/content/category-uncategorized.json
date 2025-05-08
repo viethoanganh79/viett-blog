@@ -1,0 +1,34 @@
+[
+  {
+    "id": "usb-c-hub",
+    "slug": "usb-c-hub",
+    "name": "Untitled Product",
+    "description": "",
+    "price": 0,
+    "image": "/images/products/default.jpg",
+    "images": [
+      "/images/products/default.jpg"
+    ],
+    "category": "uncategorized",
+    "featured": false,
+    "inStock": true,
+    "content": "<!-- ---\nid: p5\nslug: usb-c-hub\nname: USB-C Hub\ndescription: Expand your connectivity with this 7-in-1 USB-C hub featuring HDMI, USB-A, and SD card slots.\nprice: 39.99\nimage: /images/posts/hello-world.png\ncategory: electronics\nfeatured: true\ninStock: true\n---\n\n## USB-C Hub\n\nThis versatile 7-in-1 USB-C hub expands your device's connectivity options:\n\n- HDMI port supports 4K@60Hz video output\n- 2x USB 3.0 ports for high-speed data transfer (5Gbps)\n- 1x USB 2.0 port for peripherals\n- SD and microSD card readers\n- 100W Power Delivery pass-through charging\n- Compact aluminum design\n\n### Technical Specifications\n\n- Ports: HDMI, 2x USB 3.0, 1x USB 2.0, SD reader, microSD reader, USB-C PD\n- HDMI Output: 4K@60Hz\n- USB 3.0 Speed: Up to 5Gbps\n- Power Delivery: Up to 100W pass-through\n- Material: Aluminum alloy\n- Cable Length: 6 inches\n- Dimensions: 4.5\" x 1.5\" x 0.5\"\n- Weight: 2.5 oz\n\n### Compatibility\n\nCompatible with MacBook Pro/Air, iPad Pro, Windows laptops, Chromebooks, and Android devices with USB-C ports supporting DisplayPort Alt Mode. -->\n",
+    "html": "<!-- ---\nid: p5\nslug: usb-c-hub\nname: USB-C Hub\ndescription: Expand your connectivity with this 7-in-1 USB-C hub featuring HDMI, USB-A, and SD card slots.\nprice: 39.99\nimage: /images/posts/hello-world.png\ncategory: electronics\nfeatured: true\ninStock: true\n---\n\n## USB-C Hub\n\nThis versatile 7-in-1 USB-C hub expands your device's connectivity options:\n\n- HDMI port supports 4K@60Hz video output\n- 2x USB 3.0 ports for high-speed data transfer (5Gbps)\n- 1x USB 2.0 port for peripherals\n- SD and microSD card readers\n- 100W Power Delivery pass-through charging\n- Compact aluminum design\n\n### Technical Specifications\n\n- Ports: HDMI, 2x USB 3.0, 1x USB 2.0, SD reader, microSD reader, USB-C PD\n- HDMI Output: 4K@60Hz\n- USB 3.0 Speed: Up to 5Gbps\n- Power Delivery: Up to 100W pass-through\n- Material: Aluminum alloy\n- Cable Length: 6 inches\n- Dimensions: 4.5\" x 1.5\" x 0.5\"\n- Weight: 2.5 oz\n\n### Compatibility\n\nCompatible with MacBook Pro/Air, iPad Pro, Windows laptops, Chromebooks, and Android devices with USB-C ports supporting DisplayPort Alt Mode. -->\n"
+  },
+  {
+    "id": "wireless-mouse",
+    "slug": "wireless-mouse",
+    "name": "Untitled Product",
+    "description": "",
+    "price": 0,
+    "image": "/images/products/default.jpg",
+    "images": [
+      "/images/products/default.jpg"
+    ],
+    "category": "uncategorized",
+    "featured": false,
+    "inStock": true,
+    "content": "<!-- ---\nid: p2\nslug: wireless-mouse\nname: Wireless Mouse\ndescription: Ergonomic wireless mouse with long battery life and precision tracking.\nprice: 49.99\nimage: /images/posts/sveltekit-learn.png\nimages:\n  - /images/posts/sveltekit-learn.png\n  - /images/posts/hello-world.png\n  - /images/posts/dad-how-do-i.jpeg\n  - /images/posts/seo.jpg\ncategory: electronics\nfeatured: true\ninStock: true\n---\n\n## Wireless Mouse\n\nThis ergonomic wireless mouse is designed for comfort and precision:\n\n- Ergonomic design reduces wrist strain\n- 16,000 DPI optical sensor for precise tracking\n- 7 programmable buttons\n- Up to 70 hours of battery life\n- Fast charging via USB-C\n- Compatible with Windows, macOS, and Linux\n\n### Technical Specifications\n\n- Sensor: 16,000 DPI optical\n- Buttons: 7 programmable\n- Battery Life: Up to 70 hours\n- Charging: USB-C\n- Connectivity: 2.4GHz wireless with USB receiver\n- Dimensions: 5.0\" x 2.8\" x 1.7\"\n- Weight: 4.2 oz\n\n### What's Included\n\n- Wireless Mouse\n- USB-C Charging Cable\n- USB Receiver\n- User Manual -->\n",
+    "html": "<!-- ---\nid: p2\nslug: wireless-mouse\nname: Wireless Mouse\ndescription: Ergonomic wireless mouse with long battery life and precision tracking.\nprice: 49.99\nimage: /images/posts/sveltekit-learn.png\nimages:\n  - /images/posts/sveltekit-learn.png\n  - /images/posts/hello-world.png\n  - /images/posts/dad-how-do-i.jpeg\n  - /images/posts/seo.jpg\ncategory: electronics\nfeatured: true\ninStock: true\n---\n\n## Wireless Mouse\n\nThis ergonomic wireless mouse is designed for comfort and precision:\n\n- Ergonomic design reduces wrist strain\n- 16,000 DPI optical sensor for precise tracking\n- 7 programmable buttons\n- Up to 70 hours of battery life\n- Fast charging via USB-C\n- Compatible with Windows, macOS, and Linux\n\n### Technical Specifications\n\n- Sensor: 16,000 DPI optical\n- Buttons: 7 programmable\n- Battery Life: Up to 70 hours\n- Charging: USB-C\n- Connectivity: 2.4GHz wireless with USB receiver\n- Dimensions: 5.0\" x 2.8\" x 1.7\"\n- Weight: 4.2 oz\n\n### What's Included\n\n- Wireless Mouse\n- USB-C Charging Cable\n- USB Receiver\n- User Manual -->\n"
+  }
+]

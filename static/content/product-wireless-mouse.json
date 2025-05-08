@@ -1,0 +1,16 @@
+{
+  "id": "wireless-mouse",
+  "slug": "wireless-mouse",
+  "name": "Untitled Product",
+  "description": "",
+  "price": 0,
+  "image": "/images/products/default.jpg",
+  "images": [
+    "/images/products/default.jpg"
+  ],
+  "category": "uncategorized",
+  "featured": false,
+  "inStock": true,
+  "content": "<!-- ---\nid: p2\nslug: wireless-mouse\nname: Wireless Mouse\ndescription: Ergonomic wireless mouse with long battery life and precision tracking.\nprice: 49.99\nimage: /images/posts/sveltekit-learn.png\nimages:\n  - /images/posts/sveltekit-learn.png\n  - /images/posts/hello-world.png\n  - /images/posts/dad-how-do-i.jpeg\n  - /images/posts/seo.jpg\ncategory: electronics\nfeatured: true\ninStock: true\n---\n\n## Wireless Mouse\n\nThis ergonomic wireless mouse is designed for comfort and precision:\n\n- Ergonomic design reduces wrist strain\n- 16,000 DPI optical sensor for precise tracking\n- 7 programmable buttons\n- Up to 70 hours of battery life\n- Fast charging via USB-C\n- Compatible with Windows, macOS, and Linux\n\n### Technical Specifications\n\n- Sensor: 16,000 DPI optical\n- Buttons: 7 programmable\n- Battery Life: Up to 70 hours\n- Charging: USB-C\n- Connectivity: 2.4GHz wireless with USB receiver\n- Dimensions: 5.0\" x 2.8\" x 1.7\"\n- Weight: 4.2 oz\n\n### What's Included\n\n- Wireless Mouse\n- USB-C Charging Cable\n- USB Receiver\n- User Manual -->\n",
+  "html": "<!-- ---\nid: p2\nslug: wireless-mouse\nname: Wireless Mouse\ndescription: Ergonomic wireless mouse with long battery life and precision tracking.\nprice: 49.99\nimage: /images/posts/sveltekit-learn.png\nimages:\n  - /images/posts/sveltekit-learn.png\n  - /images/posts/hello-world.png\n  - /images/posts/dad-how-do-i.jpeg\n  - /images/posts/seo.jpg\ncategory: electronics\nfeatured: true\ninStock: true\n---\n\n## Wireless Mouse\n\nThis ergonomic wireless mouse is designed for comfort and precision:\n\n- Ergonomic design reduces wrist strain\n- 16,000 DPI optical sensor for precise tracking\n- 7 programmable buttons\n- Up to 70 hours of battery life\n- Fast charging via USB-C\n- Compatible with Windows, macOS, and Linux\n\n### Technical Specifications\n\n- Sensor: 16,000 DPI optical\n- Buttons: 7 programmable\n- Battery Life: Up to 70 hours\n- Charging: USB-C\n- Connectivity: 2.4GHz wireless with USB receiver\n- Dimensions: 5.0\" x 2.8\" x 1.7\"\n- Weight: 4.2 oz\n\n### What's Included\n\n- Wireless Mouse\n- USB-C Charging Cable\n- USB Receiver\n- User Manual -->\n"
+}

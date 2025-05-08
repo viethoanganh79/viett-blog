@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hello World | Viett Blog</title>
+  <meta name="description" content="Welcome to my new blog built with SvelteKit!">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://viett-blog.web.app/blog/hello-world">
+  <meta property="og:title" content="Hello World">
+  <meta property="og:description" content="Welcome to my new blog built with SvelteKit!">
+  <meta property="og:image" content="https://viett-blog.web.app/images/posts/hello-world.png">
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@viett">
+  <meta name="twitter:title" content="Hello World">
+  <meta name="twitter:description" content="Welcome to my new blog built with SvelteKit!">
+  <meta name="twitter:image" content="https://viett-blog.web.app/images/posts/hello-world.png">
+  
+  <!-- JSON-LD structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Hello World",
+    "description": "Welcome to my new blog built with SvelteKit!",
+    "image": "https://viett-blog.web.app/images/posts/hello-world.png",
+    "datePublished": "2025-04-16",
+    "author": {
+      "@type": "Person",
+      "name": "Viett"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Viett Blog",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://viett-blog.web.app/images/logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://viett-blog.web.app/blog/hello-world"
+    }
+  }
+  </script>
+  
+  <!-- Inline CSS -->
+  <style>
+    
+/* Basic styling for the static content */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  line-height: 1.6;
+  color: #1e293b;
+  background-color: #f8fafc;
+  margin: 0;
+  padding: 0;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0 solid;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+ul {
+  list-style: none;
+}
+.min-h-screen {
+  min-height: 100vh;
+}
+.flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-grow {
+  flex-grow: 1;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.items-center {
+  align-items: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+.grid {
+  display: grid;
+}
+.gap-2 {
+  gap: 0.5rem;
+}
+.gap-8 {
+  gap: 2rem;
+}
+.space-x-4 > * + * {
+  margin-left: 1rem;
+}
+.p-4 {
+  padding: 1rem;
+}
+.p-6 {
+  padding: 1.5rem;
+}
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.px-3 {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.py-0\.5 {
+  padding-top: 0.125rem;
+  padding-bottom: 0.125rem;
+}
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.mt-8 {
+  margin-top: 2rem;
+}
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+.mb-4 {
+  margin-bottom: 1rem;
+}
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
+.mb-8 {
+  margin-bottom: 2rem;
+}
+.mr-4 {
+  margin-right: 1rem;
+}
+.text-center {
+  text-align: center;
+}
+.text-xs {
+  font-size: 0.75rem;
+}
+.text-sm {
+  font-size: 0.875rem;
+}
+.text-xl {
+  font-size: 1.25rem;
+}
+.text-2xl {
+  font-size: 1.5rem;
+}
+.text-4xl {
+  font-size: 2.25rem;
+}
+.font-bold {
+  font-weight: 700;
+}
+.font-semibold {
+  font-weight: 600;
+}
+.bg-white {
+  background-color: #ffffff;
+}
+.bg-slate-200 {
+  background-color: #e2e8f0;
+}
+.bg-slate-800 {
+  background-color: #1e293b;
+}
+.text-white {
+  color: #ffffff;
+}
+.text-slate-800 {
+  color: #1e293b;
+}
+.text-gray-500 {
+  color: #6b7280;
+}
+.text-gray-600 {
+  color: #4b5563;
+}
+.rounded {
+  border-radius: 0.25rem;
+}
+.rounded-full {
+  border-radius: 9999px;
+}
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+.shadow-md {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+.overflow-hidden {
+  overflow: hidden;
+}
+.transition-colors {
+  transition-property: color, background-color, border-color;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+.transition-shadow {
+  transition-property: box-shadow;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+.hover\:bg-slate-300:hover {
+  background-color: #cbd5e1;
+}
+.hover\:bg-slate-700:hover {
+  background-color: #334155;
+}
+.hover\:text-slate-300:hover {
+  color: #cbd5e1;
+}
+.hover\:text-slate-600:hover {
+  color: #475569;
+}
+.hover\:shadow-lg:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+.w-full {
+  width: 100%;
+}
+.h-48 {
+  height: 12rem;
+}
+.h-auto {
+  height: auto;
+}
+.object-cover {
+  object-fit: cover;
+}
+.prose {
+  max-width: 65ch;
+  margin-left: auto;
+  margin-right: auto;
+}
+.prose h1 {
+  font-size: 2.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}
+.prose h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+.prose p {
+  margin-bottom: 1.5rem;
+}
+.prose img {
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  margin-bottom: 1.5rem;
+}
+.blog-content {
+  font-size: 1.125rem;
+}
+.blog-content pre {
+  background-color: #1e293b;
+  color: white;
+  padding: 1rem;
+  border-radius: 0.375rem;
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+@media (min-width: 768px) {
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (min-width: 1024px) {
+  .lg\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .lg\:prose-xl {
+    font-size: 1.25rem;
+    line-height: 1.8;
+  }
+  .lg\:prose-xl h1 {
+    font-size: 2.8125rem;
+    margin-bottom: 2rem;
+  }
+  .lg\:prose-xl h2 {
+    font-size: 1.875rem;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+  </style>
+</head>
+<body>
+  <div class="min-h-screen flex flex-col">
+    
+<header class="bg-slate-800 text-white p-4"><div class="container mx-auto flex justify-between items-center"><a href="/" class="text-2xl font-bold">Viett Blog</a> <nav><ul class="flex space-x-4"><li><a href="/" class="hover:text-slate-300">Home</a></li> <li><a href="/blog" class="hover:text-slate-300">Blog</a></li> <li><a href="/about" class="hover:text-slate-300">About</a></li></ul></nav></div></header>
+
+    
+    <main class="container mx-auto flex-grow p-4">
+      <article class="prose prose-slate lg:prose-xl mx-auto">
+        <header class="mb-8">
+          <h1 class="text-4xl font-bold mb-2">Hello World</h1>
+          <div class="flex flex-wrap items-center text-gray-500 text-sm mb-4">
+            <time datetime="2025-04-16" class="mr-4">April 16, 2025</time>
+            <span class="mr-4">By Viett</span>
+          </div>
+          <div class="flex flex-wrap gap-2 mb-6">
+            
+              <a href="/blog/tag/welcome" class="bg-slate-200 hover:bg-slate-300 text-slate-800 px-3 py-1 rounded-full text-sm">
+                #welcome
+              </a>
+            
+              <a href="/blog/tag/introduction" class="bg-slate-200 hover:bg-slate-300 text-slate-800 px-3 py-1 rounded-full text-sm">
+                #introduction
+              </a>
+            
+          </div>
+          <img src="/images/posts/hello-world.png" alt="Hello World" class="w-full h-auto rounded-lg shadow-md mb-6" />
+        </header>
+        
+        <div class="blog-content">
+          <h2>Welcome to My Blog!</h2>
+<p>Hello and welcome to my new blog! This is my first post, and I&#39;m excited to share my thoughts and experiences with you.</p>
+<p>This blog is built with <a href="https://kit.svelte.dev/">SvelteKit</a>, a powerful framework for building web applications. I&#39;m using Markdown to write my posts, which makes it easy to format text and add code snippets.</p>
+<pre><code class="language-js">// Example code snippet
+function greet(name) {
+  return &quot;Hello, &quot; + name + &quot;!&quot;;
+}
+
+console.log(greet(&quot;World&quot;));
+</code></pre>
+<h3>Why I Started This Blog</h3>
+<p>I started this blog to:</p>
+<ol>
+<li>Share my knowledge and experiences</li>
+<li>Document my learning journey</li>
+<li>Connect with like-minded people</li>
+<li>Improve my writing skills</li>
+</ol>
+<h3>What to Expect</h3>
+<p>In this blog, I&#39;ll be writing about:</p>
+<ul>
+<li>Web development</li>
+<li>Programming tips and tricks</li>
+<li>My personal projects</li>
+<li>Thoughts on technology trends</li>
+</ul>
+<p>I hope you find my content useful and interesting. Feel free to leave comments and share your thoughts!</p>
+<p>Stay tuned for more posts coming soon.</p>
+
+        </div>
+      </article>
+    </main>
+    
+    
+<footer class="bg-slate-800 text-white p-4 mt-8">
+  <div class="container mx-auto text-center">
+    <p>&copy; 2025 Viett. All rights reserved.</p>
+  </div>
+</footer>
+
+  </div>
+</body>
+</html>

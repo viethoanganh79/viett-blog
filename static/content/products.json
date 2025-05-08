@@ -1,0 +1,113 @@
+[
+  {
+    "id": "p4",
+    "slug": "desk-mat",
+    "name": "Desk Mat",
+    "description": "Large desk mat for your keyboard and mouse, with a smooth surface for precise movements.",
+    "price": 24.99,
+    "image": "/images/posts/dad-how-do-i.jpeg",
+    "images": [
+      "/images/posts/dad-how-do-i.jpeg"
+    ],
+    "category": "accessories",
+    "featured": false,
+    "inStock": true,
+    "visible": false,
+    "content": "\n## Desk Mat\n\nThis premium desk mat provides the perfect surface for your workspace:\n\n- Large 36\" x 16\" size accommodates keyboard, mouse, and more\n- 4mm thick for comfort and noise reduction\n- Smooth microfiber surface for precise mouse tracking\n- Non-slip rubber base keeps mat in place\n- Water-resistant and easy to clean\n- Stitched edges prevent fraying\n\n### Technical Specifications\n\n- Dimensions: 36\" x 16\" x 4mm\n- Material: Microfiber surface with rubber base\n- Edge: Stitched\n- Water Resistant: Yes\n- Colors Available: Black, Gray, Blue\n\n### Care Instructions\n\nSpot clean with mild soap and water. Air dry completely before use. Do not machine wash or dry.\n",
+    "html": "<h2>Desk Mat</h2>\n<p>This premium desk mat provides the perfect surface for your workspace:</p>\n<ul>\n<li>Large 36&quot; x 16&quot; size accommodates keyboard, mouse, and more</li>\n<li>4mm thick for comfort and noise reduction</li>\n<li>Smooth microfiber surface for precise mouse tracking</li>\n<li>Non-slip rubber base keeps mat in place</li>\n<li>Water-resistant and easy to clean</li>\n<li>Stitched edges prevent fraying</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Dimensions: 36&quot; x 16&quot; x 4mm</li>\n<li>Material: Microfiber surface with rubber base</li>\n<li>Edge: Stitched</li>\n<li>Water Resistant: Yes</li>\n<li>Colors Available: Black, Gray, Blue</li>\n</ul>\n<h3>Care Instructions</h3>\n<p>Spot clean with mild soap and water. Air dry completely before use. Do not machine wash or dry.</p>\n"
+  },
+  {
+    "id": "moho-combo1",
+    "slug": "full-combo-phong-ngu-moho-koster-mau-nau",
+    "name": "Full Combo Phòng Ngủ MOHO KOSTER Màu Nâu",
+    "description": "Koster – Những tác phẩm nghệ thuật Mid Century tuyệt vời mang đậm phong cách thiết kế Đan Mạch",
+    "price": 16990000,
+    "image": "/images/products/lango-bedroom-combo-main.jpg",
+    "images": [
+      "/images/products/lango-bedroom-combo-main.jpg",
+      "/images/products/lango-bedroom-bed.jpg",
+      "/images/products/lango-bedroom-wardrobe.jpg",
+      "/images/products/lango-bedroom-nightstand.jpg"
+    ],
+    "category": "MOHO furniture",
+    "featured": true,
+    "inStock": true,
+    "visible": true,
+    "content": "\n## MOHO LANGO Bedroom Combo\n\nThis modern bedroom furniture set includes:\n\n- Queen-size bed frame (1.6m x 2m)\n- 4-door wardrobe with shelves\n- 2 nightstands\n- Dressing table with mirror\n- Stool for dressing table\n\n### Technical Specifications\n\n- Material: High-quality MDF wood with melamine coating\n- Color: Brown\n- Style: Modern Scandinavian\n- Bed Size: 1.6m x 2m (Queen size)\n- Wardrobe Dimensions: 160cm x 60cm x 200cm\n- Nightstand Dimensions: 40cm x 35cm x 45cm\n- Dressing Table Dimensions: 80cm x 40cm x 135cm\n\n### Product Features\n\n- Durable MDF construction with premium finish\n- Spacious 4-door wardrobe with organized compartments\n- Modern design with clean lines\n- Sturdy bed frame with wooden slats\n- Matching nightstands with storage drawer\n- Elegant dressing table with large mirror\n- Easy-to-clean surfaces\n- Professional assembly service available\n\n### Care Instructions\n\n- Clean with a soft, dry cloth\n- Avoid direct sunlight to prevent color fading\n- Do not use harsh chemical cleaners\n- Keep away from water and moisture\n- Periodically check and tighten hardware connections",
+    "html": "<h2>MOHO LANGO Bedroom Combo</h2>\n<p>This modern bedroom furniture set includes:</p>\n<ul>\n<li>Queen-size bed frame (1.6m x 2m)</li>\n<li>4-door wardrobe with shelves</li>\n<li>2 nightstands</li>\n<li>Dressing table with mirror</li>\n<li>Stool for dressing table</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Material: High-quality MDF wood with melamine coating</li>\n<li>Color: Brown</li>\n<li>Style: Modern Scandinavian</li>\n<li>Bed Size: 1.6m x 2m (Queen size)</li>\n<li>Wardrobe Dimensions: 160cm x 60cm x 200cm</li>\n<li>Nightstand Dimensions: 40cm x 35cm x 45cm</li>\n<li>Dressing Table Dimensions: 80cm x 40cm x 135cm</li>\n</ul>\n<h3>Product Features</h3>\n<ul>\n<li>Durable MDF construction with premium finish</li>\n<li>Spacious 4-door wardrobe with organized compartments</li>\n<li>Modern design with clean lines</li>\n<li>Sturdy bed frame with wooden slats</li>\n<li>Matching nightstands with storage drawer</li>\n<li>Elegant dressing table with large mirror</li>\n<li>Easy-to-clean surfaces</li>\n<li>Professional assembly service available</li>\n</ul>\n<h3>Care Instructions</h3>\n<ul>\n<li>Clean with a soft, dry cloth</li>\n<li>Avoid direct sunlight to prevent color fading</li>\n<li>Do not use harsh chemical cleaners</li>\n<li>Keep away from water and moisture</li>\n<li>Periodically check and tighten hardware connections</li>\n</ul>\n"
+  },
+  {
+    "id": "p1",
+    "slug": "mechanical-keyboard",
+    "name": "Mechanical Keyboard",
+    "description": "A high-quality mechanical keyboard with RGB lighting and Cherry MX switches.",
+    "price": 129.99,
+    "image": "/images/posts/hello-world.png",
+    "images": [
+      "/images/posts/hello-world.png",
+      "/images/posts/sveltekit-learn.png",
+      "/images/posts/seo.jpg",
+      "/images/posts/dad-how-do-i.jpeg"
+    ],
+    "category": "electronics",
+    "featured": true,
+    "inStock": true,
+    "visible": false,
+    "content": "\n## Mechanical Keyboard\n\nThis premium mechanical keyboard features:\n\n- Cherry MX Blue switches for tactile feedback\n- Full RGB backlighting with 16.8 million colors\n- Durable aluminum frame\n- Programmable macros\n- N-key rollover for gaming\n- Detachable USB-C cable\n\n### Technical Specifications\n\n- Switch Type: Cherry MX Blue\n- Keycaps: Double-shot PBT\n- Backlighting: RGB (16.8 million colors)\n- Frame: Aluminum\n- Cable: Detachable USB-C\n- Dimensions: 14.2\" x 5.3\" x 1.4\"\n- Weight: 2.2 lbs\n\n### Care Instructions\n\nClean with compressed air and a microfiber cloth. Avoid liquid cleaners on the switches.\n",
+    "html": "<h2>Mechanical Keyboard</h2>\n<p>This premium mechanical keyboard features:</p>\n<ul>\n<li>Cherry MX Blue switches for tactile feedback</li>\n<li>Full RGB backlighting with 16.8 million colors</li>\n<li>Durable aluminum frame</li>\n<li>Programmable macros</li>\n<li>N-key rollover for gaming</li>\n<li>Detachable USB-C cable</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Switch Type: Cherry MX Blue</li>\n<li>Keycaps: Double-shot PBT</li>\n<li>Backlighting: RGB (16.8 million colors)</li>\n<li>Frame: Aluminum</li>\n<li>Cable: Detachable USB-C</li>\n<li>Dimensions: 14.2&quot; x 5.3&quot; x 1.4&quot;</li>\n<li>Weight: 2.2 lbs</li>\n</ul>\n<h3>Care Instructions</h3>\n<p>Clean with compressed air and a microfiber cloth. Avoid liquid cleaners on the switches.</p>\n"
+  },
+  {
+    "id": "p3",
+    "slug": "monitor-stand",
+    "name": "Monitor Stand",
+    "description": "Adjustable monitor stand for better ergonomics and desk organization.",
+    "price": 79.99,
+    "image": "/images/posts/seo.jpg",
+    "images": [
+      "/images/posts/seo.jpg"
+    ],
+    "category": "accessories",
+    "featured": false,
+    "inStock": true,
+    "visible": false,
+    "content": "\n## Monitor Stand\n\nThis adjustable monitor stand helps improve your workspace ergonomics:\n\n- Height adjustable from 4.2\" to 7.5\"\n- Supports monitors up to 32\" and 22 lbs\n- Built-in cable management system\n- Sturdy aluminum construction\n- Non-slip rubber feet\n- 360° swivel base\n\n### Technical Specifications\n\n- Material: Aluminum alloy\n- Height Range: 4.2\" to 7.5\"\n- Maximum Weight Capacity: 22 lbs\n- Compatible Screen Size: Up to 32\"\n- Base Dimensions: 9.8\" x 8.3\"\n- Weight: 3.5 lbs\n\n### Benefits\n\n- Reduces neck and eye strain by positioning your monitor at eye level\n- Frees up desk space underneath for storage\n- Cable management keeps your workspace tidy\n- Sturdy construction ensures stability for your valuable monitor\n",
+    "html": "<h2>Monitor Stand</h2>\n<p>This adjustable monitor stand helps improve your workspace ergonomics:</p>\n<ul>\n<li>Height adjustable from 4.2&quot; to 7.5&quot;</li>\n<li>Supports monitors up to 32&quot; and 22 lbs</li>\n<li>Built-in cable management system</li>\n<li>Sturdy aluminum construction</li>\n<li>Non-slip rubber feet</li>\n<li>360° swivel base</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Material: Aluminum alloy</li>\n<li>Height Range: 4.2&quot; to 7.5&quot;</li>\n<li>Maximum Weight Capacity: 22 lbs</li>\n<li>Compatible Screen Size: Up to 32&quot;</li>\n<li>Base Dimensions: 9.8&quot; x 8.3&quot;</li>\n<li>Weight: 3.5 lbs</li>\n</ul>\n<h3>Benefits</h3>\n<ul>\n<li>Reduces neck and eye strain by positioning your monitor at eye level</li>\n<li>Frees up desk space underneath for storage</li>\n<li>Cable management keeps your workspace tidy</li>\n<li>Sturdy construction ensures stability for your valuable monitor</li>\n</ul>\n"
+  },
+  {
+    "id": "p5",
+    "slug": "usb-c-hub",
+    "name": "USB-C Hub",
+    "description": "Expand your connectivity with this 7-in-1 USB-C hub featuring HDMI, USB-A, and SD card slots.",
+    "price": 39.99,
+    "image": "/images/posts/hello-world.png",
+    "images": [
+      "/images/posts/hello-world.png"
+    ],
+    "category": "electronics",
+    "featured": true,
+    "inStock": true,
+    "visible": false,
+    "content": "\n## USB-C Hub\n\nThis versatile 7-in-1 USB-C hub expands your device's connectivity options:\n\n- HDMI port supports 4K@60Hz video output\n- 2x USB 3.0 ports for high-speed data transfer (5Gbps)\n- 1x USB 2.0 port for peripherals\n- SD and microSD card readers\n- 100W Power Delivery pass-through charging\n- Compact aluminum design\n\n### Technical Specifications\n\n- Ports: HDMI, 2x USB 3.0, 1x USB 2.0, SD reader, microSD reader, USB-C PD\n- HDMI Output: 4K@60Hz\n- USB 3.0 Speed: Up to 5Gbps\n- Power Delivery: Up to 100W pass-through\n- Material: Aluminum alloy\n- Cable Length: 6 inches\n- Dimensions: 4.5\" x 1.5\" x 0.5\"\n- Weight: 2.5 oz\n\n### Compatibility\n\nCompatible with MacBook Pro/Air, iPad Pro, Windows laptops, Chromebooks, and Android devices with USB-C ports supporting DisplayPort Alt Mode.\n",
+    "html": "<h2>USB-C Hub</h2>\n<p>This versatile 7-in-1 USB-C hub expands your device&#39;s connectivity options:</p>\n<ul>\n<li>HDMI port supports 4K@60Hz video output</li>\n<li>2x USB 3.0 ports for high-speed data transfer (5Gbps)</li>\n<li>1x USB 2.0 port for peripherals</li>\n<li>SD and microSD card readers</li>\n<li>100W Power Delivery pass-through charging</li>\n<li>Compact aluminum design</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Ports: HDMI, 2x USB 3.0, 1x USB 2.0, SD reader, microSD reader, USB-C PD</li>\n<li>HDMI Output: 4K@60Hz</li>\n<li>USB 3.0 Speed: Up to 5Gbps</li>\n<li>Power Delivery: Up to 100W pass-through</li>\n<li>Material: Aluminum alloy</li>\n<li>Cable Length: 6 inches</li>\n<li>Dimensions: 4.5&quot; x 1.5&quot; x 0.5&quot;</li>\n<li>Weight: 2.5 oz</li>\n</ul>\n<h3>Compatibility</h3>\n<p>Compatible with MacBook Pro/Air, iPad Pro, Windows laptops, Chromebooks, and Android devices with USB-C ports supporting DisplayPort Alt Mode.</p>\n"
+  },
+  {
+    "id": "p2",
+    "slug": "wireless-mouse",
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with long battery life and precision tracking.",
+    "price": 49.99,
+    "image": "/images/posts/sveltekit-learn.png",
+    "images": [
+      "/images/posts/sveltekit-learn.png",
+      "/images/posts/hello-world.png",
+      "/images/posts/dad-how-do-i.jpeg",
+      "/images/posts/seo.jpg"
+    ],
+    "category": "electronics",
+    "featured": true,
+    "inStock": true,
+    "visible": false,
+    "content": "\n## Wireless Mouse\n\nThis ergonomic wireless mouse is designed for comfort and precision:\n\n- Ergonomic design reduces wrist strain\n- 16,000 DPI optical sensor for precise tracking\n- 7 programmable buttons\n- Up to 70 hours of battery life\n- Fast charging via USB-C\n- Compatible with Windows, macOS, and Linux\n\n### Technical Specifications\n\n- Sensor: 16,000 DPI optical\n- Buttons: 7 programmable\n- Battery Life: Up to 70 hours\n- Charging: USB-C\n- Connectivity: 2.4GHz wireless with USB receiver\n- Dimensions: 5.0\" x 2.8\" x 1.7\"\n- Weight: 4.2 oz\n\n### What's Included\n\n- Wireless Mouse\n- USB-C Charging Cable\n- USB Receiver\n- User Manual\n",
+    "html": "<h2>Wireless Mouse</h2>\n<p>This ergonomic wireless mouse is designed for comfort and precision:</p>\n<ul>\n<li>Ergonomic design reduces wrist strain</li>\n<li>16,000 DPI optical sensor for precise tracking</li>\n<li>7 programmable buttons</li>\n<li>Up to 70 hours of battery life</li>\n<li>Fast charging via USB-C</li>\n<li>Compatible with Windows, macOS, and Linux</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Sensor: 16,000 DPI optical</li>\n<li>Buttons: 7 programmable</li>\n<li>Battery Life: Up to 70 hours</li>\n<li>Charging: USB-C</li>\n<li>Connectivity: 2.4GHz wireless with USB receiver</li>\n<li>Dimensions: 5.0&quot; x 2.8&quot; x 1.7&quot;</li>\n<li>Weight: 4.2 oz</li>\n</ul>\n<h3>What&#39;s Included</h3>\n<ul>\n<li>Wireless Mouse</li>\n<li>USB-C Charging Cable</li>\n<li>USB Receiver</li>\n<li>User Manual</li>\n</ul>\n"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "usb-c-hub",
+  "slug": "usb-c-hub",
+  "name": "Untitled Product",
+  "description": "",
+  "price": 0,
+  "image": "/images/products/default.jpg",
+  "images": [
+    "/images/products/default.jpg"
+  ],
+  "category": "uncategorized",
+  "featured": false,
+  "inStock": true,
+  "content": "<!-- ---\nid: p5\nslug: usb-c-hub\nname: USB-C Hub\ndescription: Expand your connectivity with this 7-in-1 USB-C hub featuring HDMI, USB-A, and SD card slots.\nprice: 39.99\nimage: /images/posts/hello-world.png\ncategory: electronics\nfeatured: true\ninStock: true\n---\n\n## USB-C Hub\n\nThis versatile 7-in-1 USB-C hub expands your device's connectivity options:\n\n- HDMI port supports 4K@60Hz video output\n- 2x USB 3.0 ports for high-speed data transfer (5Gbps)\n- 1x USB 2.0 port for peripherals\n- SD and microSD card readers\n- 100W Power Delivery pass-through charging\n- Compact aluminum design\n\n### Technical Specifications\n\n- Ports: HDMI, 2x USB 3.0, 1x USB 2.0, SD reader, microSD reader, USB-C PD\n- HDMI Output: 4K@60Hz\n- USB 3.0 Speed: Up to 5Gbps\n- Power Delivery: Up to 100W pass-through\n- Material: Aluminum alloy\n- Cable Length: 6 inches\n- Dimensions: 4.5\" x 1.5\" x 0.5\"\n- Weight: 2.5 oz\n\n### Compatibility\n\nCompatible with MacBook Pro/Air, iPad Pro, Windows laptops, Chromebooks, and Android devices with USB-C ports supporting DisplayPort Alt Mode. -->\n",
+  "html": "<!-- ---\nid: p5\nslug: usb-c-hub\nname: USB-C Hub\ndescription: Expand your connectivity with this 7-in-1 USB-C hub featuring HDMI, USB-A, and SD card slots.\nprice: 39.99\nimage: /images/posts/hello-world.png\ncategory: electronics\nfeatured: true\ninStock: true\n---\n\n## USB-C Hub\n\nThis versatile 7-in-1 USB-C hub expands your device's connectivity options:\n\n- HDMI port supports 4K@60Hz video output\n- 2x USB 3.0 ports for high-speed data transfer (5Gbps)\n- 1x USB 2.0 port for peripherals\n- SD and microSD card readers\n- 100W Power Delivery pass-through charging\n- Compact aluminum design\n\n### Technical Specifications\n\n- Ports: HDMI, 2x USB 3.0, 1x USB 2.0, SD reader, microSD reader, USB-C PD\n- HDMI Output: 4K@60Hz\n- USB 3.0 Speed: Up to 5Gbps\n- Power Delivery: Up to 100W pass-through\n- Material: Aluminum alloy\n- Cable Length: 6 inches\n- Dimensions: 4.5\" x 1.5\" x 0.5\"\n- Weight: 2.5 oz\n\n### Compatibility\n\nCompatible with MacBook Pro/Air, iPad Pro, Windows laptops, Chromebooks, and Android devices with USB-C ports supporting DisplayPort Alt Mode. -->\n"
+}

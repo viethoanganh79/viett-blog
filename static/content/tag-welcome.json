@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "hello-world",
+    "title": "Hello World",
+    "date": "2025-04-16",
+    "excerpt": "Welcome to my new blog built with SvelteKit!",
+    "tags": [
+      "welcome",
+      "introduction"
+    ],
+    "author": "Viett",
+    "image": "/images/posts/hello-world.png",
+    "content": "\n## Welcome to My Blog!\n\nHello and welcome to my new blog! This is my first post, and I'm excited to share my thoughts and experiences with you.\n\nThis blog is built with [SvelteKit](https://kit.svelte.dev/), a powerful framework for building web applications. I'm using Markdown to write my posts, which makes it easy to format text and add code snippets.\n\n```js\n// Example code snippet\nfunction greet(name) {\n  return \"Hello, \" + name + \"!\";\n}\n\nconsole.log(greet(\"World\"));\n```\n\n### Why I Started This Blog\n\nI started this blog to:\n\n1. Share my knowledge and experiences\n2. Document my learning journey\n3. Connect with like-minded people\n4. Improve my writing skills\n\n### What to Expect\n\nIn this blog, I'll be writing about:\n\n- Web development\n- Programming tips and tricks\n- My personal projects\n- Thoughts on technology trends\n\nI hope you find my content useful and interesting. Feel free to leave comments and share your thoughts!\n\nStay tuned for more posts coming soon.\n",
+    "html": "<h2>Welcome to My Blog!</h2>\n<p>Hello and welcome to my new blog! This is my first post, and I&#39;m excited to share my thoughts and experiences with you.</p>\n<p>This blog is built with <a href=\"https://kit.svelte.dev/\">SvelteKit</a>, a powerful framework for building web applications. I&#39;m using Markdown to write my posts, which makes it easy to format text and add code snippets.</p>\n<pre><code class=\"language-js\">// Example code snippet\nfunction greet(name) {\n  return &quot;Hello, &quot; + name + &quot;!&quot;;\n}\n\nconsole.log(greet(&quot;World&quot;));\n</code></pre>\n<h3>Why I Started This Blog</h3>\n<p>I started this blog to:</p>\n<ol>\n<li>Share my knowledge and experiences</li>\n<li>Document my learning journey</li>\n<li>Connect with like-minded people</li>\n<li>Improve my writing skills</li>\n</ol>\n<h3>What to Expect</h3>\n<p>In this blog, I&#39;ll be writing about:</p>\n<ul>\n<li>Web development</li>\n<li>Programming tips and tricks</li>\n<li>My personal projects</li>\n<li>Thoughts on technology trends</li>\n</ul>\n<p>I hope you find my content useful and interesting. Feel free to leave comments and share your thoughts!</p>\n<p>Stay tuned for more posts coming soon.</p>\n"
+  }
+]

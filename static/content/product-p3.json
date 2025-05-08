@@ -1,0 +1,17 @@
+{
+  "id": "p3",
+  "slug": "monitor-stand",
+  "name": "Monitor Stand",
+  "description": "Adjustable monitor stand for better ergonomics and desk organization.",
+  "price": 79.99,
+  "image": "/images/posts/seo.jpg",
+  "images": [
+    "/images/posts/seo.jpg"
+  ],
+  "category": "accessories",
+  "featured": false,
+  "inStock": true,
+  "visible": false,
+  "content": "\n## Monitor Stand\n\nThis adjustable monitor stand helps improve your workspace ergonomics:\n\n- Height adjustable from 4.2\" to 7.5\"\n- Supports monitors up to 32\" and 22 lbs\n- Built-in cable management system\n- Sturdy aluminum construction\n- Non-slip rubber feet\n- 360° swivel base\n\n### Technical Specifications\n\n- Material: Aluminum alloy\n- Height Range: 4.2\" to 7.5\"\n- Maximum Weight Capacity: 22 lbs\n- Compatible Screen Size: Up to 32\"\n- Base Dimensions: 9.8\" x 8.3\"\n- Weight: 3.5 lbs\n\n### Benefits\n\n- Reduces neck and eye strain by positioning your monitor at eye level\n- Frees up desk space underneath for storage\n- Cable management keeps your workspace tidy\n- Sturdy construction ensures stability for your valuable monitor\n",
+  "html": "<h2>Monitor Stand</h2>\n<p>This adjustable monitor stand helps improve your workspace ergonomics:</p>\n<ul>\n<li>Height adjustable from 4.2&quot; to 7.5&quot;</li>\n<li>Supports monitors up to 32&quot; and 22 lbs</li>\n<li>Built-in cable management system</li>\n<li>Sturdy aluminum construction</li>\n<li>Non-slip rubber feet</li>\n<li>360° swivel base</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Material: Aluminum alloy</li>\n<li>Height Range: 4.2&quot; to 7.5&quot;</li>\n<li>Maximum Weight Capacity: 22 lbs</li>\n<li>Compatible Screen Size: Up to 32&quot;</li>\n<li>Base Dimensions: 9.8&quot; x 8.3&quot;</li>\n<li>Weight: 3.5 lbs</li>\n</ul>\n<h3>Benefits</h3>\n<ul>\n<li>Reduces neck and eye strain by positioning your monitor at eye level</li>\n<li>Frees up desk space underneath for storage</li>\n<li>Cable management keeps your workspace tidy</li>\n<li>Sturdy construction ensures stability for your valuable monitor</li>\n</ul>\n"
+}

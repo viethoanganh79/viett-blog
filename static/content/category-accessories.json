@@ -1,0 +1,36 @@
+[
+  {
+    "id": "p4",
+    "slug": "desk-mat",
+    "name": "Desk Mat",
+    "description": "Large desk mat for your keyboard and mouse, with a smooth surface for precise movements.",
+    "price": 24.99,
+    "image": "/images/posts/dad-how-do-i.jpeg",
+    "images": [
+      "/images/posts/dad-how-do-i.jpeg"
+    ],
+    "category": "accessories",
+    "featured": false,
+    "inStock": true,
+    "visible": false,
+    "content": "\n## Desk Mat\n\nThis premium desk mat provides the perfect surface for your workspace:\n\n- Large 36\" x 16\" size accommodates keyboard, mouse, and more\n- 4mm thick for comfort and noise reduction\n- Smooth microfiber surface for precise mouse tracking\n- Non-slip rubber base keeps mat in place\n- Water-resistant and easy to clean\n- Stitched edges prevent fraying\n\n### Technical Specifications\n\n- Dimensions: 36\" x 16\" x 4mm\n- Material: Microfiber surface with rubber base\n- Edge: Stitched\n- Water Resistant: Yes\n- Colors Available: Black, Gray, Blue\n\n### Care Instructions\n\nSpot clean with mild soap and water. Air dry completely before use. Do not machine wash or dry.\n",
+    "html": "<h2>Desk Mat</h2>\n<p>This premium desk mat provides the perfect surface for your workspace:</p>\n<ul>\n<li>Large 36&quot; x 16&quot; size accommodates keyboard, mouse, and more</li>\n<li>4mm thick for comfort and noise reduction</li>\n<li>Smooth microfiber surface for precise mouse tracking</li>\n<li>Non-slip rubber base keeps mat in place</li>\n<li>Water-resistant and easy to clean</li>\n<li>Stitched edges prevent fraying</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Dimensions: 36&quot; x 16&quot; x 4mm</li>\n<li>Material: Microfiber surface with rubber base</li>\n<li>Edge: Stitched</li>\n<li>Water Resistant: Yes</li>\n<li>Colors Available: Black, Gray, Blue</li>\n</ul>\n<h3>Care Instructions</h3>\n<p>Spot clean with mild soap and water. Air dry completely before use. Do not machine wash or dry.</p>\n"
+  },
+  {
+    "id": "p3",
+    "slug": "monitor-stand",
+    "name": "Monitor Stand",
+    "description": "Adjustable monitor stand for better ergonomics and desk organization.",
+    "price": 79.99,
+    "image": "/images/posts/seo.jpg",
+    "images": [
+      "/images/posts/seo.jpg"
+    ],
+    "category": "accessories",
+    "featured": false,
+    "inStock": true,
+    "visible": false,
+    "content": "\n## Monitor Stand\n\nThis adjustable monitor stand helps improve your workspace ergonomics:\n\n- Height adjustable from 4.2\" to 7.5\"\n- Supports monitors up to 32\" and 22 lbs\n- Built-in cable management system\n- Sturdy aluminum construction\n- Non-slip rubber feet\n- 360° swivel base\n\n### Technical Specifications\n\n- Material: Aluminum alloy\n- Height Range: 4.2\" to 7.5\"\n- Maximum Weight Capacity: 22 lbs\n- Compatible Screen Size: Up to 32\"\n- Base Dimensions: 9.8\" x 8.3\"\n- Weight: 3.5 lbs\n\n### Benefits\n\n- Reduces neck and eye strain by positioning your monitor at eye level\n- Frees up desk space underneath for storage\n- Cable management keeps your workspace tidy\n- Sturdy construction ensures stability for your valuable monitor\n",
+    "html": "<h2>Monitor Stand</h2>\n<p>This adjustable monitor stand helps improve your workspace ergonomics:</p>\n<ul>\n<li>Height adjustable from 4.2&quot; to 7.5&quot;</li>\n<li>Supports monitors up to 32&quot; and 22 lbs</li>\n<li>Built-in cable management system</li>\n<li>Sturdy aluminum construction</li>\n<li>Non-slip rubber feet</li>\n<li>360° swivel base</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Material: Aluminum alloy</li>\n<li>Height Range: 4.2&quot; to 7.5&quot;</li>\n<li>Maximum Weight Capacity: 22 lbs</li>\n<li>Compatible Screen Size: Up to 32&quot;</li>\n<li>Base Dimensions: 9.8&quot; x 8.3&quot;</li>\n<li>Weight: 3.5 lbs</li>\n</ul>\n<h3>Benefits</h3>\n<ul>\n<li>Reduces neck and eye strain by positioning your monitor at eye level</li>\n<li>Frees up desk space underneath for storage</li>\n<li>Cable management keeps your workspace tidy</li>\n<li>Sturdy construction ensures stability for your valuable monitor</li>\n</ul>\n"
+  }
+]

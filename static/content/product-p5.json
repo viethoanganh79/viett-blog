@@ -1,0 +1,17 @@
+{
+  "id": "p5",
+  "slug": "usb-c-hub",
+  "name": "USB-C Hub",
+  "description": "Expand your connectivity with this 7-in-1 USB-C hub featuring HDMI, USB-A, and SD card slots.",
+  "price": 39.99,
+  "image": "/images/posts/hello-world.png",
+  "images": [
+    "/images/posts/hello-world.png"
+  ],
+  "category": "electronics",
+  "featured": true,
+  "inStock": true,
+  "visible": false,
+  "content": "\n## USB-C Hub\n\nThis versatile 7-in-1 USB-C hub expands your device's connectivity options:\n\n- HDMI port supports 4K@60Hz video output\n- 2x USB 3.0 ports for high-speed data transfer (5Gbps)\n- 1x USB 2.0 port for peripherals\n- SD and microSD card readers\n- 100W Power Delivery pass-through charging\n- Compact aluminum design\n\n### Technical Specifications\n\n- Ports: HDMI, 2x USB 3.0, 1x USB 2.0, SD reader, microSD reader, USB-C PD\n- HDMI Output: 4K@60Hz\n- USB 3.0 Speed: Up to 5Gbps\n- Power Delivery: Up to 100W pass-through\n- Material: Aluminum alloy\n- Cable Length: 6 inches\n- Dimensions: 4.5\" x 1.5\" x 0.5\"\n- Weight: 2.5 oz\n\n### Compatibility\n\nCompatible with MacBook Pro/Air, iPad Pro, Windows laptops, Chromebooks, and Android devices with USB-C ports supporting DisplayPort Alt Mode.\n",
+  "html": "<h2>USB-C Hub</h2>\n<p>This versatile 7-in-1 USB-C hub expands your device&#39;s connectivity options:</p>\n<ul>\n<li>HDMI port supports 4K@60Hz video output</li>\n<li>2x USB 3.0 ports for high-speed data transfer (5Gbps)</li>\n<li>1x USB 2.0 port for peripherals</li>\n<li>SD and microSD card readers</li>\n<li>100W Power Delivery pass-through charging</li>\n<li>Compact aluminum design</li>\n</ul>\n<h3>Technical Specifications</h3>\n<ul>\n<li>Ports: HDMI, 2x USB 3.0, 1x USB 2.0, SD reader, microSD reader, USB-C PD</li>\n<li>HDMI Output: 4K@60Hz</li>\n<li>USB 3.0 Speed: Up to 5Gbps</li>\n<li>Power Delivery: Up to 100W pass-through</li>\n<li>Material: Aluminum alloy</li>\n<li>Cable Length: 6 inches</li>\n<li>Dimensions: 4.5&quot; x 1.5&quot; x 0.5&quot;</li>\n<li>Weight: 2.5 oz</li>\n</ul>\n<h3>Compatibility</h3>\n<p>Compatible with MacBook Pro/Air, iPad Pro, Windows laptops, Chromebooks, and Android devices with USB-C ports supporting DisplayPort Alt Mode.</p>\n"
+}
