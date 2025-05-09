@@ -3,29 +3,38 @@ title: Tuần đầu tiên - Hành trình bắt đầu luyện gõ 10 ngón
 slug: hanh-trinh-luyen-phim-10-ngon-tuan-dau-tien
 date: '2025-05-02'
 excerpt: "Nghe thì hơi buồn cười vì là Developer thì chắc chắn phải gõ được 10 ngón chứ! Nhưng không!? Tôi vẫn còn gõ phím bằng 6 ngón tay cho tới 1 năm trước."
-tags: [ 'tập viết', 'nỗi sợ', 'bắt đầu' ]
+tags: [ 'tập viết', 'nỗi sợ', 'bắt đầu', 'luyện ngón' ]
 author: Viett
-image: /images/posts/typing-skills.jpg
+image: /images/posts/flyingfingers.webp
 ---
 
-## Vượt Qua Nỗi Sợ Trong Tâm Trí: Tôi đang thua so với các Developer trẻ
+Chào mọi người!
 
-Tôi là một lập trình viên, nhưng phải thừa nhận rằng kỹ năng gõ phím của mình thực sự rất kém. Thật khó tin, nhưng một kỹ thuật viên IT lại có thể gõ phím chậm chạp như rùa bò. Hơn nữa, việc viết document trở nên một thử thách lớn lao, khiến tôi cảm thấy vô cùng khó chịu.
+Tôi vừa trải qua một tuần "khởi động" đầy thử thách và thú vị với mục tiêu cải thiện tốc độ đánh máy và làm chủ kỹ năng gõ 10 ngón. Trước đây, tôi thường chỉ sử dụng vài ngón tay để "mổ cò" trên bàn phím, tốc độ chậm chạp và thường xuyên mắc lỗi. Quyết tâm thay đổi đã thôi thúc tôi bắt đầu hành trình này.
 
-Nhận thức được điều này, tôi quyết định bắt đầu một hành trình phát triển bản thân. Mục tiêu duy nhất của tôi là cải thiện tốc độ và kỹ năng gõ phím một cách cơ bản và hiệu quả.
+## Ngày 1: Làm quen và khởi động
 
-## Tại Sao Kỹ Năng Gõ Phím Lại Quan Trọng?
+Tôi bắt đầu bằng việc tìm hiểu về vị trí các ngón tay trên bàn phím. Tôi chọn một vài trang web và ứng dụng hướng dẫn gõ 10 ngón, tập trung vào việc đặt tay đúng vị trí (ASDF JKL;) và làm quen với các phím cơ bản. Ban đầu, mọi thứ thật khó khăn. Ngón tay tôi như "múa may" lung tung, tốc độ chậm chạp và liên tục sai. Tuy nhiên, tôi không nản lòng, kiên trì luyện tập theo các bài tập hướng dẫn.
 
-Trong thế giới công nghệ thông tin, tốc độ và hiệu quả là yếu tố then chốt. Một lập trình viên gõ chậm không chỉ ảnh hưởng đến năng suất cá nhân mà còn tác động đến hiệu quả làm việc của cả team. Việc tập luyện kỹ năng gõ 10 ngón sẽ giúp chúng ta tiết kiệm thời gian, giảm thiểu sai sót và nâng cao chất lượng công việc.
+![luyện gõ 10 ngón](/images/posts/typing-10-finger.jpeg)
 
-Hơn nữa, việc cải thiện kỹ năng gõ phím còn giúp chúng ta tự tin hơn trong môi trường làm việc chuyên nghiệp. Hãy tưởng tượng một buổi họm trực tuyến, bạn có thể nhanh chóng ghi chép và phản hồi một cách chuyên nghiệp.
+## Ngày 2-3: Tăng tốc và làm quen với các phím khác
 
-## Chiến Lược Tập Luyện Hiệu Quả
+Sau khi làm quen với các phím cơ bản, tôi bắt đầu tăng dần tốc độ. Các bài tập tập trung vào việc gõ các từ và cụm từ phổ biến. Tôi cũng bắt đầu làm quen với các phím số, phím chức năng và các ký tự đặc biệt. Mỗi ngày, tôi đều dành ra ít nhất 30 phút đến 1 tiếng để luyện tập.
 
-Tôi bắt đầu bằng việc tìm kiếm các khóa học trực tuyến về kỹ thuật gõ 10 ngón. Các trang web như Typing.com và Ratatype cung cấp những bài tập miễn phí và hữu ích. Quan trọng nhất là tính kiên trì và luyện tập hàng ngày.
+## Ngày 4-5: Chinh phục những thử thách nhỏ
 
-Đặt mục tiêu ban đầu là tăng tốc độ gõ từ 30 từ/phút lên 60 từ/phút trong vòng 2 tháng. Tôi dành 30 phút mỗi ngày để thực hành, không ngừng theo dõi và cải thiện kỹ năng của mình.
+Tôi bắt đầu thử thách bản thân bằng cách gõ các đoạn văn bản ngắn và các bài tập gõ nhanh. Tôi nhận thấy tốc độ của mình đã tăng lên đáng kể, mặc dù vẫn còn nhiều lỗi chính tả. Tôi bắt đầu chú trọng vào việc gõ chính xác hơn là chỉ tập trung vào tốc độ.
 
-## Hành Trình Này Không Có Điểm Dừng
+## Ngày 6-7: Tự tin và sẵn sàng
 
-Phát triển bản thân là một quá trình liên tục. Tôi tin rằng với sự quyết tâm và kiên nhẫn, bất kỳ kỹ năng nào cũng có thể được cải thiện. Hành trình chinh phục bàn phím của tôi mới chỉ bắt đầu, và tôi rất mong được chia sẻ những tiến bộ của mình với các bạn.
+Đến cuối tuần, tôi cảm thấy tự tin hơn rất nhiều. Tôi có thể gõ được những đoạn văn bản dài hơn, tốc độ đã cải thiện rõ rệt. Mặc dù vẫn còn nhiều điều cần cải thiện, tôi cảm thấy rất hài lòng với những gì mình đã đạt được trong một tuần.
+
+## Bài học rút ra
+
+- Kiên trì là chìa khóa: Đừng nản lòng trước những khó khăn ban đầu.
+- Tập trung vào sự chính xác: Đừng quá vội vàng, hãy tập trung gõ đúng trước khi nghĩ đến tốc độ.
+- Luyện tập đều đặn: Dành thời gian luyện tập mỗi ngày, ngay cả khi chỉ 15-20 phút.
+
+Hành trình của tôi chỉ mới bắt đầu. Tôi rất hào hứng để tiếp tục luyện tập và chinh phục những thử thách mới.
+Hy vọng những chia sẻ này sẽ truyền cảm hứng cho bạn!
