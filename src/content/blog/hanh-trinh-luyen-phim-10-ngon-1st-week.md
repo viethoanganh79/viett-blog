@@ -2,7 +2,7 @@
 title: Tuần đầu tiên - Hành trình bắt đầu luyện gõ 10 ngón.
 slug: hanh-trinh-luyen-phim-10-ngon-tuan-dau-tien
 date: '2025-05-02'
-excerpt: "Tôi vừa trải qua một tuần "khởi động" đầy thử thách và thú vị với mục tiêu cải thiện tốc độ đánh máy và làm chủ kỹ năng gõ 10 ngón."
+excerpt: "Tôi vừa trải qua một tuần /"khởi động/" đầy thử thách và thú vị với mục tiêu cải thiện tốc độ đánh máy và làm chủ kỹ năng gõ 10 ngón."
 tags: [ 'tập viết', 'nỗi sợ', 'bắt đầu', 'luyện ngón' ]
 author: Viett
 image: /images/posts/flyingfingers.webp
